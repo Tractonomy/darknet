@@ -1,0 +1,7 @@
+classes = 1
+train = data/carts/train.txt
+valid = data/carts/test.txt
+names = data/carts/classes.names
+backup = backup
+eval=carts
+
