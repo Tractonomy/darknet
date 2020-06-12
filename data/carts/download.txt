@@ -1,0 +1,10 @@
+Download the dataset from the shared google drive and place all images inside this directory including the txt files.
+
+- train.txt
+- test.txt
+- train_* images
+- train_* txt labels
+- test_* images
+- test_* txt labels
+- names.txt
+- names.classes
